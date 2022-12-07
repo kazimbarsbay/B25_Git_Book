@@ -1,0 +1,14 @@
+.idea
+
+*.iml
+
+out
+
+*.xml
+
+secret.txt
+
+secret2.txt
+
+fun.txt
+
